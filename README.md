@@ -83,4 +83,5 @@ Create X_test & y_test arrays.
 
 * Choosing appropriate text processing techniques.
  * Dealing with lengthy training times.
+   
 **This outline covers the entire process from data loading to model evaluation, encapsulating key steps and challenges encountered in the project**.
